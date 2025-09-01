@@ -316,7 +316,7 @@
 .box {
     position: relative;
     width: 400px;
-    height: 80vh;
+    height: 73vh;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
     background-color: white;
 }
@@ -339,9 +339,8 @@
 
 .pers {
     border-top: 0.2px solid var(--primar-color);
-
-    margin-left: 9px;
-    padding: 6px;
+    margin-left: 4px;
+    padding: 3px;
     margin-top: -20px;
     display: flex;
     gap: 8px;
@@ -616,8 +615,8 @@
 
 .laste-flex {
     display: flex;
-    gap: 2px;
-    max-width: 900px;
+    padding: 10px;
+    max-width: 500px;
 }
 
 .roW {
@@ -686,7 +685,7 @@
     .join {
         background-color: rgb(70, 12, 219);
         max-width: 400px;
-        margin-left: 5%;
+        margin-left: 1%;
         margin-top: 3rem;
         padding: 20px;
         color: white;
@@ -1134,7 +1133,7 @@
     .box2 {
         width: 360px;
         margin-top: 20px;
-        margin-left: 7%;
+        margin-left: 3%;
         height: 370px;
         background-color: white;
         box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
